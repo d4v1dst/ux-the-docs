@@ -7,7 +7,7 @@ $mono-font-family: "IBM Plex Mono" !default;
 $root-font-size: 16px !default; // Base font-size for rems
 $body-line-height: 1.4 !default;
 $content-line-height: 1.6 !default;
-$body-heading-line-height: 1.25 !default;
+$body-heading-line-height: 1.1 !default;
 
 //
 // Font size
@@ -21,7 +21,7 @@ $font-size-3: 12px !default; //h5
 $font-size-4: 14px !default;
 $font-size-5: 16px !default; //h3
 $font-size-6: 18px !default; //h2
-$font-size-7: 24px !default;
+$font-size-7: 22px !default;
 $font-size-8: 32px !default; //h1
 $font-size-9: 36px !default;
 $font-size-10: 42px !default;
@@ -135,7 +135,7 @@ $nav-list-item-height: $sp-6 !default;
 $nav-list-item-height-sm: $sp-8 !default;
 $nav-list-expander-right: true;
 $content-width: 800px !default;
-$header-height: 100px !default;
+$header-height: 70px !default;
 $search-results-width: $content-width - $nav-width !default;
 $transition-duration: 400ms;
 
